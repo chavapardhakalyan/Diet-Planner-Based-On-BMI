@@ -8,12 +8,12 @@ The BMI-based Diet Planner is a web application that eliminates the need for man
 This tool instantly computes an individual's Body Mass Index (BMI) and produces a customized dietary regimen in PDF format with only one click.
 
 ## Features
-### BMI Calculation: Calculates BMI using height and weight inputs.
-### Diet Plan Suggestions: Recommends diet plans based on the calculated BMI category (underweight, normal weight, overweight, obese).
-### Nutritional Guidance: Provides nutritional information and guidelines for each BMI category.
-### User-Friendly Interface: Simple and intuitive interface for ease of use.
-### Accuracy: The calculator uses the correct formula to calculate BMI, and the results are accurate to at least two decimal places.
-### Language Translation: We added a Google Translator API section so users can select their preferred language and access the website.
+BMI Calculation: Calculates BMI using height and weight inputs.
+Diet Plan Suggestions: Recommends diet plans based on the calculated BMI category (underweight, normal weight, overweight, obese).
+Nutritional Guidance: Provides nutritional information and guidelines for each BMI category.
+User-Friendly Interface: Simple and intuitive interface for ease of use.
+Accuracy: The calculator uses the correct formula to calculate BMI, and the results are accurate to at least two decimal places.
+Language Translation: We added a Google Translator API section so users can select their preferred language and access the website.
 
 ## Installation
 To use the Diet Planner application, follow these steps:

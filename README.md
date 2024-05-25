@@ -9,11 +9,11 @@ This tool instantly computes an individual's Body Mass Index (BMI) and produces 
 
 ## Features
 BMI Calculation: Calculates BMI using height and weight inputs.
-Diet Plan Suggestions: Recommends diet plans based on the calculated BMI category (underweight, normal weight, overweight, obese).
-Nutritional Guidance: Provides nutritional information and guidelines for each BMI category.
-User-Friendly Interface: Simple and intuitive interface for ease of use.
-Accuracy: The calculator uses the correct formula to calculate BMI, and the results are accurate to at least two decimal places.
-Language Translation: We added a Google Translator API section so users can select their preferred language and access the website.
+Diet Plan Suggestions: Recommends diet plans based on the calculated BMI category (underweight, normal weight, overweight, obese).\n
+Nutritional Guidance: Provides nutritional information and guidelines for each BMI category.\n
+User-Friendly Interface: Simple and intuitive interface for ease of use.\n
+Accuracy: The calculator uses the correct formula to calculate BMI, and the results are accurate to at least two decimal places.\n
+Language Translation: We added a Google Translator API section so users can select their preferred language and access the website.\n
 
 ## Installation
 To use the Diet Planner application, follow these steps:

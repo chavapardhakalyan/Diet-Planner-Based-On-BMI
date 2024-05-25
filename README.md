@@ -17,10 +17,11 @@ The BMI-based Diet Planner is a web application that eliminates the need for man
 ## Installation
 To use the Diet Planner application, follow these steps:
 
-1. Clone the repository:
+Clone the repository:
+```
 git clone https://github.com/chavapardhakalyan/Diet-Planner-Based-On-BMI.git
 
-
+```
 ## Usage
 1. Enter your height (in cm or inches) and weight (in kg or lbs).
 2. Click on the "Calculate BMI" button.
